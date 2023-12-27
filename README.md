@@ -8,6 +8,6 @@ Jadi, jangan ragu untuk mengadopsi CSS kami yang terbaru ini dan tingkatkan tamp
 Anda tidak perlu menambahkan tag khusus, cukup pasang CSS diatas tag head
 
 ```html
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://raw.githubusercontent.com/Playtekno/cssiframeresponsive/main/iframerespo.min.css" />```
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://raw.githubusercontent.com/Playtekno/cssiframeresponsive/main/iframerespo.min.css" />
 
 CSS akan auto mendeteksi tag iframe, embed dan video.

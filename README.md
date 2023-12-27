@@ -6,6 +6,8 @@ Elemen-elemen HTML tersebut akan ditempatkan dalam kontainer yang cerdas, dengan
 Jadi, jangan ragu untuk mengadopsi CSS kami yang terbaru ini dan tingkatkan tampilan website Anda. Dapatkan sentuhan estetika yang menawan dan tampilkan konten multimedia yang menarik dengan mudah. Kesempurnaan hanya sejauh satu langkah, dan langkah itu diambil dengan menggunakan CSS kami yang luar biasa!
 
 Anda tidak perlu menambahkan tag khusus, cukup pasang CSS diatas tag head
-```<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://raw.githubusercontent.com/Playtekno/cssiframeresponsive/main/iframerespo.min.css" />```
+
+```html
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://raw.githubusercontent.com/Playtekno/cssiframeresponsive/main/iframerespo.min.css" />```
 
 CSS akan auto mendeteksi tag iframe, embed dan video.
